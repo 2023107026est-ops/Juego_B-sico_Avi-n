@@ -1,0 +1,33 @@
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.exe
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.deps.json
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.runtimeconfig.json
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.dll
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.pdb
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.Form1.resources
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.csproj.GenerateResource.cache
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfoInputs.cache
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfo.cs
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.csproj.CoreCompileInputs.cache
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.dll
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\refint\Juego_Basic.dll
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.pdb
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.genruntimeconfig.cache
+E:\8vo semestre\Calidad de Software\Semana 2\Juego_Basic\obj\Debug\net10.0-windows\ref\Juego_Basic.dll
+C:\Users\Asus\Pictures\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.exe
+C:\Users\Asus\Pictures\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.deps.json
+C:\Users\Asus\Pictures\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.runtimeconfig.json
+C:\Users\Asus\Pictures\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.dll
+C:\Users\Asus\Pictures\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.pdb
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.Form1.resources
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.csproj.GenerateResource.cache
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfoInputs.cache
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfo.cs
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.dll
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\refint\Juego_Basic.dll
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.pdb
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.genruntimeconfig.cache
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\ref\Juego_Basic.dll
+C:\Users\Asus\Pictures\Juego_Basic\obj\Debug\net10.0-windows\Juego_Ba.9DD796A0.Up2Date
